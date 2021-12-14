@@ -26,6 +26,10 @@
 ## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YenMaldonado)]
 
+## Most Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YenMaldonado&langs_count=8)](https://github.com/yenmaldonadomejia/github-readme-stats)
+
+
 
 
 
