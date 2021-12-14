@@ -20,3 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yennymaldonadomejia&show_icons=true&locale=en" alt="yennymaldonadomejia" /></p>
 
+## Statistics
+![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenMaldonado&show_icons=true&theme=radical)
