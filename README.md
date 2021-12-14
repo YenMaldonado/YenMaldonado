@@ -22,3 +22,10 @@
 
 ## Statistics
 ![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenMaldonado&show_icons=true&theme=radical)
+
+## Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YenMaldonado)]
+
+
+
+
