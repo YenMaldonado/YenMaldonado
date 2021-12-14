@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yenny Maldonado</h1>
-<h3 align="center">UX researcher and front end developer</h3>
+<h3 align="center">Front-end Developer and UX researcher</h3>
 
 - 🔭 I’m currently working on **websites, SPA, PWA**
 
